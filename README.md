@@ -2,7 +2,8 @@
 
 ## 📁 Project Overview
 
-This project focuses on analyzing and visualizing supply chain order fulfillment performance using **Python** and **Power BI**. The aim is to identify bottlenecks, assess key performance indicators (KPIs), and derive actionable insights to improve operational efficiency across the supply chain process.
+This project focuses on analyzing and visualizing supply chain order fulfillment performance using Python and Power BI. The aim is to identify bottlenecks, assess key performance indicators (KPIs), and derive actionable insights to improve operational efficiency across the supply chain process.
+
 ---
 
 ## 🎯 Project Objective
