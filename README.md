@@ -103,3 +103,11 @@ jupyter notebook "SUPPLY CHAIN MANAGEMENT.ipynb"
 * Develop predictive models to forecast delays and stockouts
 * Automate alerting for high-risk supplier or region performance
 * Incorporate real-time logistics tracking
+
+
+### 🙋‍♂️ Author
+
+**Vamshi K**
+*Aspiring Data Scientist*
+📫 Reach me on [LinkedIn](https://www.linkedin.com)
+
