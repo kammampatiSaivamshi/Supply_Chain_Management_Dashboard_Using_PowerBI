@@ -107,7 +107,7 @@ jupyter notebook "SUPPLY CHAIN MANAGEMENT.ipynb"
 
 ### 🙋‍♂️ Author
 
-**Vamshi K**
+**Kammampati Saivamshi**
 *Aspiring Data Scientist*
 📫 Reach me on [LinkedIn](https://www.linkedin.com)
 
