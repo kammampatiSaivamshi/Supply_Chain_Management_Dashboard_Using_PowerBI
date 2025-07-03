@@ -1,12 +1,12 @@
 # Supply-Chain-Management-Dashboard-using-PowerBI
 
-## 📁 Project Overview
+##  Project Overview
 
 This project focuses on analyzing and visualizing supply chain order fulfillment performance using Python and Power BI. The aim is to identify bottlenecks, assess key performance indicators (KPIs), and derive actionable insights to improve operational efficiency across the supply chain process.
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 To evaluate and enhance supply chain performance through:
 
@@ -16,7 +16,7 @@ To evaluate and enhance supply chain performance through:
 
 ---
 
-## 🧰 Tools & Technologies Used
+##  Tools & Technologies Used
 
 * **Python (Jupyter Notebook)**:
 
@@ -33,7 +33,7 @@ To evaluate and enhance supply chain performance through:
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 | File Name                       | Description                                                 |
 | ------------------------------- | ----------------------------------------------------------- |
@@ -43,9 +43,9 @@ To evaluate and enhance supply chain performance through:
 
 ---
 
-## 📊 Key Analysis Steps
+##  Key Analysis Steps
 
-### ✅ Python (Jupyter Notebook)
+###  Python (Jupyter Notebook)
 
 * Data Cleaning and Formatting
 * Summary Statistics
@@ -54,7 +54,7 @@ To evaluate and enhance supply chain performance through:
 * Delay Detection
 * Supplier Performance Review
 
-### 📈 Power BI Dashboard
+###  Power BI Dashboard
 
 * **KPI Cards**: Revenue, Orders, Availability
 * **Visuals**:
@@ -68,18 +68,18 @@ To evaluate and enhance supply chain performance through:
 
 ---
 
-## 🌟 Dashboard Highlights
+##  Dashboard Highlights
 
-* 📦 Order Status Overview (Delivered, Pending, Delayed)
-* ⏱ Lead Time Distribution
-* 🚚 On-Time vs Late Deliveries
-* 🏭 Supplier Fill Rate and Delay Frequency
-* 🌍 Region-Wise Order and Product Trends
-* 💰 Revenue by SKU and Product Category
+*  Order Status Overview (Delivered, Pending, Delayed)
+*  Lead Time Distribution
+*  On-Time vs Late Deliveries
+*  Supplier Fill Rate and Delay Frequency
+*  Region-Wise Order and Product Trends
+*  Revenue by SKU and Product Category
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 ### Python Analysis
 
@@ -97,7 +97,7 @@ jupyter notebook "SUPPLY CHAIN MANAGEMENT.ipynb"
 
 ---
 
-## 🔮 Potential Improvements
+##  Potential Improvements
 
 * Connect with live order data using APIs
 * Develop predictive models to forecast delays and stockouts
@@ -105,9 +105,9 @@ jupyter notebook "SUPPLY CHAIN MANAGEMENT.ipynb"
 * Incorporate real-time logistics tracking
 
 
-### 🙋‍♂️ Author
+###  Author
 
 **Kammampati Saivamshi**
 *Aspiring Data Scientist*
-📫 Reach me on [LinkedIn](https://www.linkedin.com)
+ Reach me on [LinkedIn](https://www.linkedin.com)
 
