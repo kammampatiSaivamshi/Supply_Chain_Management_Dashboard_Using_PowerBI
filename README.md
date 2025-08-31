@@ -1,4 +1,4 @@
-# Supply-Chain-Management-Dashboard-using-PowerBI
+# Supply_Chain_Management_Dashboard_using_PowerBI
 
 ##  Project Overview
 
